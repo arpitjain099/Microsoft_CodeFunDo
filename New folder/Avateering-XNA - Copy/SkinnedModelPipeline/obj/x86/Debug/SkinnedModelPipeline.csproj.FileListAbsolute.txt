@@ -1,0 +1,7 @@
+H:\WIN APP FEST\New folder\Avateering-XNA\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.csprojResolveAssemblyReference.cache
+H:\WIN APP FEST\New folder\Avateering-XNA\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll
+H:\WIN APP FEST\New folder\Avateering-XNA\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.pdb
+H:\WIN APP FEST\New folder\Avateering-XNA\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.dll
+H:\WIN APP FEST\New folder\Avateering-XNA\SkinnedModelPipeline\bin\x86\Debug\SkinnedModel.pdb
+H:\WIN APP FEST\New folder\Avateering-XNA\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.dll
+H:\WIN APP FEST\New folder\Avateering-XNA\SkinnedModelPipeline\obj\x86\Debug\SkinnedModelPipeline.pdb

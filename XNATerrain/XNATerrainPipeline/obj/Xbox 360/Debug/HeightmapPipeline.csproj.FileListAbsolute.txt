@@ -1,0 +1,7 @@
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\HeightmapPipeline\bin\Xbox 360\Debug\HeightmapPipeline.dll
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\HeightmapPipeline\bin\Xbox 360\Debug\HeightmapPipeline.pdb
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\HeightmapPipeline\bin\Xbox 360\Debug\Heightmap.dll
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\HeightmapPipeline\bin\Xbox 360\Debug\Heightmap.pdb
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\HeightmapPipeline\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\HeightmapPipeline\obj\Xbox 360\Debug\HeightmapPipeline.dll
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\HeightmapPipeline\obj\Xbox 360\Debug\HeightmapPipeline.pdb

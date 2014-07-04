@@ -1,0 +1,12 @@
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\bin\Xbox 360\Debug\Content\HeightMap.xnb
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\bin\Xbox 360\Debug\Content\grass.xnb
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\bin\Xbox 360\Debug\Content\Verdana.xnb
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\bin\Xbox 360\Debug\Content\grass_0.xnb
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\bin\Xbox 360\Debug\XNATerrainImplementation.exe
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\bin\Xbox 360\Debug\XNATerrainImplementation.pdb
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\bin\Xbox 360\Debug\XNATerrainHeightmap.dll
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\bin\Xbox 360\Debug\XNATerrainHeightmap.pdb
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\obj\Xbox 360\Debug\XNATerrainImplementation.exe
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\obj\Xbox 360\Debug\XNATerrainImplementation.pdb

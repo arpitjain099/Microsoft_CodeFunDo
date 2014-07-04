@@ -1,0 +1,7 @@
+C:\Users\Persio\Trabalho\Futuron Game\Game\HeightmapPipeline\bin\x86\Release\HeightmapPipeline.dll
+C:\Users\Persio\Trabalho\Futuron Game\Game\HeightmapPipeline\bin\x86\Release\HeightmapPipeline.pdb
+C:\Users\Persio\Trabalho\Futuron Game\Game\HeightmapPipeline\bin\x86\Release\Heightmap.dll
+C:\Users\Persio\Trabalho\Futuron Game\Game\HeightmapPipeline\bin\x86\Release\Heightmap.pdb
+C:\Users\Persio\Trabalho\Futuron Game\Game\HeightmapPipeline\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Persio\Trabalho\Futuron Game\Game\HeightmapPipeline\obj\x86\Release\HeightmapPipeline.dll
+C:\Users\Persio\Trabalho\Futuron Game\Game\HeightmapPipeline\obj\x86\Release\HeightmapPipeline.pdb

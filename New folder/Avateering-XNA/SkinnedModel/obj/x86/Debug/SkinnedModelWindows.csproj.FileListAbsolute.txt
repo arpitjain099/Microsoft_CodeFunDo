@@ -1,0 +1,6 @@
+H:\WIN APP FEST\New folder\Avateering-XNA\SkinnedModel\bin\x86\Debug\SkinnedModel.dll
+H:\WIN APP FEST\New folder\Avateering-XNA\SkinnedModel\bin\x86\Debug\SkinnedModel.pdb
+H:\WIN APP FEST\New folder\Avateering-XNA\SkinnedModel\obj\x86\Debug\SkinnedModelWindows.csprojResolveAssemblyReference.cache
+H:\WIN APP FEST\New folder\Avateering-XNA\SkinnedModel\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\WIN APP FEST\New folder\Avateering-XNA\SkinnedModel\obj\x86\Debug\SkinnedModel.dll
+H:\WIN APP FEST\New folder\Avateering-XNA\SkinnedModel\obj\x86\Debug\SkinnedModel.pdb

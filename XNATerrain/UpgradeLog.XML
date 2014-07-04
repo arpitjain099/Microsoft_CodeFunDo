@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="XNA Terrain">
+</Property><Property Name="Solution File" Value="C:\Users\Shahbaz\Desktop\XNATerrain\XNA Terrain.sln">
+</Property><Property Name="Date" Value="04 January 2014">
+</Property><Property Name="Time" Value="20:08">
+</Property><Property Name="Solution" Value="XNA Terrain">
+</Property><Property Name="Solution File" Value="C:\Users\Shahbaz\Desktop\XNATerrain\XNA Terrain.sln">
+</Property><Property Name="Date" Value="04 January 2014">
+</Property><Property Name="Time" Value="20:09:04">
+</Property></Properties><Event ErrorLevel="0" Project="XNATerrainPipeline" Source="XNATerrainPipeline\XNATerrainPipeline.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="XNATerrainPipeline" Source="XNATerrainPipeline\XNATerrainPipeline.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="XNATerrainHeightmap" Source="XNATerrainHeightmap\XNATerrainHeightmap.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="XNATerrainHeightmap" Source="XNATerrainHeightmap\XNATerrainHeightmap.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="XNATerrainHeightmap" Source="XNATerrainHeightmap\XNATerrainHeightmap.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="XNA Terrain Implementation" Source="XNA Terrain Implementation\XNA Terrain Implementation.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="XNA Terrain Implementation" Source="XNA Terrain Implementation\XNA Terrain Implementation.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="XNA Terrain Implementation" Source="XNA Terrain Implementation\XNA Terrain Implementation.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="XNA Terrain.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="XNA Terrain.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="XNATerrainPipeline" Source="XNATerrainPipeline\XNATerrainPipeline.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="XNATerrainPipeline" Source="XNATerrainPipeline\XNATerrainPipeline.csproj" Description="Upgraded XNA Framework Content Pipeline References.">
+</Event><Event ErrorLevel="0" Project="XNATerrainPipeline" Source="XNATerrainPipeline\XNATerrainPipeline.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="XNATerrainHeightmap" Source="XNATerrainHeightmap\XNATerrainHeightmap.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="XNATerrainHeightmap" Source="XNATerrainHeightmap\XNATerrainHeightmap.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="XNATerrainHeightmap" Source="Content\Content.contentproj" Description="Upgrade of Library project 'XNATerrainHeightmap' removed a reference to the empty Content Project 'C:\Users\Shahbaz\Desktop\XNATerrain\XNATerrainHeightmap\Content\Content.contentproj'.">
+</Event><Event ErrorLevel="0" Project="XNA Terrain Implementation" Source="XNA Terrain Implementation\XNA Terrain Implementation.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="XNA Terrain Implementation" Source="XNA Terrain Implementation\XNA Terrain Implementation.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="XNA Terrain ImplementationContent" Source="XNA Terrain Implementation\Content\XNA Terrain ImplementationContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

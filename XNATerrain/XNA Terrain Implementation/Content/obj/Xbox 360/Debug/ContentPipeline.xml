@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Graphics="Microsoft.Xna.Framework.Graphics" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>HeightMap.bmp</Source>
+      <Name>HeightMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TerrainProcessor</Processor>
+      <Parameters>
+        <Data Key="TexCoordScale">0.01</Data>
+        <Data Key="TerrainTexture">grass.dds</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\bin\Xbox 360\Debug\Content\HeightMap.xnb</Output>
+      <Time>2009-05-25T23:47:30.4248046-03:00</Time>
+      <Request>C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\bin\Xbox 360\Debug\Content\grass_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>grass.dds</Source>
+      <Name>grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\bin\Xbox 360\Debug\Content\grass.xnb</Output>
+      <Time>2009-05-26T21:13:28.6914062-03:00</Time>
+    </Item>
+    <Item>
+      <Source>Verdana.spritefont</Source>
+      <Name>Verdana</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\bin\Xbox 360\Debug\Content\Verdana.xnb</Output>
+      <Time>2009-05-26T00:00:01.9716796-03:00</Time>
+    </Item>
+    <Item>
+      <Source>grass.dds</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Graphics:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\bin\Xbox 360\Debug\Content\grass_0.xnb</Output>
+      <Time>2009-05-26T21:13:28.6914062-03:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNATerrainPipeline\bin\Xbox 360\Debug\XNATerrainPipeline.dll</Key>
+        <Value>2009-05-26T21:20:27.1162109-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2008-10-10T17:42:32-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2008-10-10T17:43:28-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2008-10-10T17:43:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2008-10-10T17:48:18-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v3.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2008-10-10T17:48:50-03:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-04-18T15:17:30.930664-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

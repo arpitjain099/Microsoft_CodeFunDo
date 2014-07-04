@@ -1,0 +1,6 @@
+C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\bin\x86\Release\Heightmap.dll
+C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\bin\x86\Release\Heightmap.pdb
+C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\obj\x86\Release\Heightmap.dll
+C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\obj\x86\Release\Heightmap.pdb

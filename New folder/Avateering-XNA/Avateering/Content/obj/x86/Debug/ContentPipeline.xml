@@ -1,0 +1,309 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>dude.fbx</Source>
+      <Name>dude</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>SkinnedModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\dude.xnb</Output>
+      <Time>2013-09-11T15:17:38+05:30</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\dude_0.xml</Key>
+        <Value>2014-01-04T14:57:04.6894771+05:30</Value>
+      </Dependency>
+      <Request>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\head_0.xnb</Request>
+      <Request>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\jacket_0.xnb</Request>
+      <Request>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\pants_0.xnb</Request>
+      <Request>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\upBodyC_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>ChooserBackground.png</Source>
+      <Name>ChooserBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\ChooserBackground.xnb</Output>
+      <Time>2013-09-11T15:17:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Joint.png</Source>
+      <Name>Joint</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\Joint.xnb</Output>
+      <Time>2013-09-11T15:17:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Bone.png</Source>
+      <Name>Bone</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\Bone.xnb</Output>
+      <Time>2013-09-11T15:17:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Header.png</Source>
+      <Name>Header</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\Header.xnb</Output>
+      <Time>2013-09-11T15:17:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Segoe16.spritefont</Source>
+      <Name>Segoe16</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\Segoe16.xnb</Output>
+      <Time>2013-09-11T15:17:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>KinectDepthVisualizer.fx</Source>
+      <Name>KinectDepthVisualizer</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\KinectDepthVisualizer.xnb</Output>
+      <Time>2013-09-11T15:17:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>dude.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\dude_0.xml</Output>
+      <Time>2013-09-11T15:17:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>head.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\head_0.xnb</Output>
+      <Time>2013-09-11T15:17:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>jacket.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\jacket_0.xnb</Output>
+      <Time>2013-09-11T15:17:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>pants.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\pants_0.xnb</Output>
+      <Time>2013-09-11T15:17:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>upBodyC.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\upBodyC_0.xnb</Output>
+      <Time>2013-09-11T15:17:38+05:30</Time>
+    </Item>
+    <Item>
+      <Source>exit.png</Source>
+      <Name>exit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\exit.xnb</Output>
+      <Time>2014-01-04T23:16:31.2340299+05:30</Time>
+    </Item>
+    <Item>
+      <Source>options.png</Source>
+      <Name>options</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\options.xnb</Output>
+      <Time>2014-01-04T23:16:31.2370301+05:30</Time>
+    </Item>
+    <Item>
+      <Source>resume.png</Source>
+      <Name>resume</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\resume.xnb</Output>
+      <Time>2014-01-04T23:16:31.2800325+05:30</Time>
+    </Item>
+    <Item>
+      <Source>start.png</Source>
+      <Name>start</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\start.xnb</Output>
+      <Time>2014-01-04T23:16:31.2830327+05:30</Time>
+    </Item>
+    <Item>
+      <Source>optionBall.png</Source>
+      <Name>optionBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\optionBall.xnb</Output>
+      <Time>2014-01-04T23:58:24.088757+05:30</Time>
+    </Item>
+    <Item>
+      <Source>fifthBall.png</Source>
+      <Name>fifthBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\fifthBall.xnb</Output>
+      <Time>2014-01-05T05:25:28.8510897+05:30</Time>
+    </Item>
+    <Item>
+      <Source>firstBall.png</Source>
+      <Name>firstBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\firstBall.xnb</Output>
+      <Time>2014-01-05T05:25:28.8520898+05:30</Time>
+    </Item>
+    <Item>
+      <Source>fourthBall.png</Source>
+      <Name>fourthBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\fourthBall.xnb</Output>
+      <Time>2014-01-05T05:25:28.8530898+05:30</Time>
+    </Item>
+    <Item>
+      <Source>secondBall.png</Source>
+      <Name>secondBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\secondBall.xnb</Output>
+      <Time>2014-01-05T05:25:28.8540899+05:30</Time>
+    </Item>
+    <Item>
+      <Source>thirdBall.png</Source>
+      <Name>thirdBall</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\thirdBall.xnb</Output>
+      <Time>2014-01-05T05:25:28.8550899+05:30</Time>
+    </Item>
+    <Item>
+      <Source>Screen.png</Source>
+      <Name>Screen</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\Screen.xnb</Output>
+      <Time>2014-01-05T06:07:34.472547+05:30</Time>
+    </Item>
+    <Item>
+      <Source>bgmusic.wav</Source>
+      <Name>bgmusic</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\bgmusic.xnb</Output>
+      <Time>2014-01-05T12:33:52.0132265+05:30</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2014-01-05T12:57:45.8442369+05:30</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\Content\</RootDirectory>
+      <LoggerRootDirectory>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\</LoggerRootDirectory>
+      <IntermediateDirectory>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>H:\WIN APP FEST\New folder\Avateering-XNA\SkinnedModelPipeline\bin\x86\Debug\SkinnedModelPipeline.dll</Key>
+        <Value>2014-01-04T14:56:58.1481029+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+05:30</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-01-04T14:22:21.3013141+05:30</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

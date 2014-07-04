@@ -1,0 +1,5 @@
+C:\Users\Persio\Trabalho\Futuron Game\@Files\@Old\TankOnAHeightmap\Sample\TankOnAHeightmapPipeline\bin\x86\Debug\TanksOnAHeightmapPipeline.dll
+C:\Users\Persio\Trabalho\Futuron Game\@Files\@Old\TankOnAHeightmap\Sample\TankOnAHeightmapPipeline\bin\x86\Debug\TanksOnAHeightmapPipeline.pdb
+C:\Users\Persio\Trabalho\Futuron Game\@Files\@Old\TankOnAHeightmap\Sample\TankOnAHeightmapPipeline\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Persio\Trabalho\Futuron Game\@Files\@Old\TankOnAHeightmap\Sample\TankOnAHeightmapPipeline\obj\x86\Debug\TanksOnAHeightmapPipeline.dll
+C:\Users\Persio\Trabalho\Futuron Game\@Files\@Old\TankOnAHeightmap\Sample\TankOnAHeightmapPipeline\obj\x86\Debug\TanksOnAHeightmapPipeline.pdb

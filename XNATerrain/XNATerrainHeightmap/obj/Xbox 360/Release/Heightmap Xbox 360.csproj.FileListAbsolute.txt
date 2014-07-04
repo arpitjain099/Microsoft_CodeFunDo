@@ -1,0 +1,6 @@
+C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\bin\Xbox 360\Release\Heightmap.dll
+C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\bin\Xbox 360\Release\Heightmap.pdb
+C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\obj\Xbox 360\Release\ResolveAssemblyReference.cache
+C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\obj\Xbox 360\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\obj\Xbox 360\Release\Heightmap.dll
+C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\obj\Xbox 360\Release\Heightmap.pdb

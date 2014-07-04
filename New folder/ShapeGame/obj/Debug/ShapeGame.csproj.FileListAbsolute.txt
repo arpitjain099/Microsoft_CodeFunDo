@@ -1,0 +1,2 @@
+C:\Users\Shahbaz\Desktop\New folder\ShapeGame\bin\Debug\ShapeGame.exe.config
+H:\WIN APP FEST\New folder\ShapeGame\bin\Debug\ShapeGame.exe.config

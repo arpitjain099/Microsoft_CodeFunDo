@@ -1,0 +1,196 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="1233F79B-6CB2-40A3-8570-B55813E126C7/f:Program.cs" caret="189" fromTop="8" />
+      <File id="287934F7-D1DF-4E3E-A05E-505C500113DC/f:TerrainProcessor.cs" caret="0" fromTop="0" />
+      <File id="287934F7-D1DF-4E3E-A05E-505C500113DC/f:AssemblyHelper.cs" caret="0" fromTop="0" />
+      <File id="287934F7-D1DF-4E3E-A05E-505C500113DC/f:HeightMapInfoContent.cs" caret="0" fromTop="0" />
+      <File id="FDD78AAC-C9F5-42D0-90EB-BA5B2DE20441/f:HeightMapInfo.cs" caret="0" fromTop="0" />
+      <File id="1233F79B-6CB2-40A3-8570-B55813E126C7/f:Game1.cs" caret="4611" fromTop="14" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="1233F79B-6CB2-40A3-8570-B55813E126C7/f:Game1.cs" caret="3197" fromTop="27" />
+      <File id="1233F79B-6CB2-40A3-8570-B55813E126C7/f:Game1.cs" caret="3020" fromTop="23" />
+      <File id="1233F79B-6CB2-40A3-8570-B55813E126C7/f:Game1.cs" caret="3067" fromTop="23" />
+      <File id="1233F79B-6CB2-40A3-8570-B55813E126C7/f:Game1.cs" caret="2619" fromTop="16" />
+      <File id="1233F79B-6CB2-40A3-8570-B55813E126C7/f:Game1.cs" caret="1109" fromTop="29" />
+      <File id="1233F79B-6CB2-40A3-8570-B55813E126C7/f:Game1.cs" caret="5711" fromTop="24" />
+      <File id="1233F79B-6CB2-40A3-8570-B55813E126C7/f:Game1.cs" caret="4611" fromTop="14" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerMSTest>
+    <UseTestRunConfigFromMetadataFile>False</UseTestRunConfigFromMetadataFile>
+  </UnitTestRunnerMSTest>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="Keyboard" priority="3" />
+      <Item value="keyboardState" priority="7" />
+      <Item value="new" priority="10" />
+      <Item value="KeyboardState" priority="1" />
+      <Item value="if" priority="12" />
+      <Item value="Keys" priority="12" />
+      <Item value="cameraViewMatrix" priority="0" />
+      <Item value="Vector3" priority="16" />
+      <Item value="cameraPosition" priority="3" />
+      <Item value="cameraTarget" priority="4" />
+      <Item value="false" priority="2" />
+      <Item value="cameraDirection" priority="10" />
+      <Item value="else" priority="5" />
+      <Item value="Vector2" priority="4" />
+      <Item value="xyDir" priority="0" />
+      <Item value="float" priority="1" />
+      <Item value="x" priority="0" />
+      <Item value="cameraRightDirection" priority="0" />
+      <Item value="System" priority="3" />
+      <Item value="Diagnostics" priority="3" />
+      <Item value="Debug" priority="3" />
+      <Item value="VertexPositionColor" priority="0" />
+      <Item value="Color" priority="1" />
+      <Item value="MouseState" priority="1" />
+      <Item value="mouseState" priority="6" />
+      <Item value="Mouse" priority="4" />
+      <Item value="int" priority="1" />
+      <Item value="mouseX" priority="6" />
+      <Item value="cameraTargetNormalDirection" priority="0" />
+      <Item value="oldMouseState" priority="1" />
+      <Item value="graphics" priority="2" />
+      <Item value="Content" priority="0" />
+      <Item value="Texture2D" priority="0" />
+      <Item value="private" priority="6" />
+      <Item value="cameraCrosshairTexture" priority="0" />
+      <Item value="spriteBatch" priority="0" />
+      <Item value="public" priority="6" />
+      <Item value="Camera" priority="2" />
+      <Item value="position" priority="2" />
+      <Item value="newPosition" priority="1" />
+      <Item value="newTarget" priority="1" />
+      <Item value="camera" priority="11" />
+      <Item value="previousMouseState" priority="0" />
+      <Item value="previousKeyboardState" priority="0" />
+      <Item value="void" priority="4" />
+      <Item value="gameTime" priority="0" />
+      <Item value="SpriteBatch" priority="0" />
+      <Item value="mouseY" priority="0" />
+      <Item value="CameraMode" priority="6" />
+      <Item value="List" priority="0" />
+      <Item value="Array" priority="2" />
+      <Item value="foreach" priority="0" />
+      <Item value="return" priority="2" />
+      <Item value="true" priority="2" />
+      <Item value="bool" priority="0" />
+      <Item value="freeModeKeys" priority="0" />
+      <Item value="mouseInverted" priority="0" />
+      <Item value="mode" priority="3" />
+      <Item value="class" priority="0" />
+      <Item value="time" priority="0" />
+      <Item value="Trajectory" priority="3" />
+      <Item value="trajectory01" priority="2" />
+      <Item value="trajectory" priority="2" />
+      <Item value="newTrajectory" priority="0" />
+      <Item value="target" priority="0" />
+      <Item value="GameTime" priority="0" />
+      <Item value="loopType" priority="1" />
+      <Item value="CurveLoopType" priority="1" />
+      <Item value="Curve3D" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Input.Keyboard">
+      <Item value="GetState" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Input.KeyboardState">
+      <Item value="IsKeyDown" priority="5" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Input.Keys">
+      <Item value="W" priority="1" />
+      <Item value="A" priority="1" />
+      <Item value="Space" priority="1" />
+      <Item value="C" priority="1" />
+      <Item value="Q" priority="0" />
+      <Item value="D" priority="0" />
+      <Item value="Zoom" priority="0" />
+      <Item value="D0" priority="0" />
+      <Item value="D1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Vector3">
+      <Item value="Zero" priority="2" />
+      <Item value="Cross" priority="0" />
+      <Item value="Up" priority="0" />
+      <Item value="Down" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Vector3">
+      <Item value="Z" priority="2" />
+      <Item value="Normalize" priority="1" />
+      <Item value="X" priority="4" />
+      <Item value="Y" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Diagnostics.Debug">
+      <Item value="WriteLine" priority="3" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Graphics.Color">
+      <Item value="White" priority="1" />
+      <Item value="Blue" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.Input.Mouse">
+      <Item value="GetState" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Input.MouseState">
+      <Item value="X" priority="5" />
+      <Item value="Y" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.SpriteBatch">
+      <Item value="Draw" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Content.ContentManager">
+      <Item value="Load" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.Graphics.Texture2D">
+      <Item value="Height" priority="0" />
+      <Item value="Width" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XNATerrainImplementation.Camera">
+      <Item value="Initialize" priority="0" />
+      <Item value="LoadContent" priority="0" />
+      <Item value="Update" priority="0" />
+      <Item value="ViewMatrix" priority="1" />
+      <Item value="ProjectionMatrix" priority="1" />
+      <Item value="MouseInverted" priority="0" />
+      <Item value="AddTrajectory" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@XNATerrainImplementation.CameraMode">
+      <Item value="FREE_MODE" priority="4" />
+      <Item value="PATH_FOLLOWING_MODE" priority="0" />
+      <Item value="TRAJECTORY_MODE" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:XNATerrainImplementation.Trajectory">
+      <Item value="AddPoint" priority="0" />
+      <Item value="BuildTrajectory" priority="0" />
+      <Item value="Update" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Xna.Framework.GameTime">
+      <Item value="ElapsedGameTime" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.TimeSpan">
+      <Item value="TotalSeconds" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Microsoft.Xna.Framework.CurveLoopType">
+      <Item value="Cycle" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@XNATerrainImplementation.DVIIICamera.CameraMode">
+      <Item value="TRAJECTORY_MODE" priority="0" />
+      <Item value="FREE_MODE" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

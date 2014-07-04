@@ -1,0 +1,2 @@
+H:\WIN APP FEST\New folder\Avateering-XNA\Avateering\Content\obj\x86\Debug\AvateeringContent.contentprojResolveAssemblyReference.cache
+H:\WIN APP FEST\New folder\Avateering-XNA - Copy\Avateering\Content\obj\x86\Debug\AvateeringContent.contentprojResolveAssemblyReference.cache

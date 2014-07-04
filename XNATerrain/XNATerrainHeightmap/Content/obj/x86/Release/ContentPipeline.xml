@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\Content\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\3.0.0.0__6d5c3888ef60e27d\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2009-04-18T15:17:30.930664-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

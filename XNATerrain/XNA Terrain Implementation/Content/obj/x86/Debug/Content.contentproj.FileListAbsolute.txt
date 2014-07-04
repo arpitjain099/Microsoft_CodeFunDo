@@ -1,0 +1,5 @@
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\FuturonTerrain\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNA Terrain Implementation\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Pedro Silva\Downloads\Downloads\XNATerrain\XNA Terrain Implementation\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\persio\Downloads\XNATerrain\XNATerrain\XNA Terrain Implementation\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\persio\Trabalho\Futuron Game\@Projects\XNATerrain\XNA Terrain Implementation\Content\obj\x86\Debug\ResolveAssemblyReference.cache

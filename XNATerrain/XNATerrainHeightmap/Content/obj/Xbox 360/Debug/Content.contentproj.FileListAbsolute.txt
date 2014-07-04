@@ -1,0 +1,3 @@
+C:\Users\Persio\Trabalho\Futuron Game\Game\Heightmap\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\Heightmap\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Users\Persio\Documents\Visual Studio 2008\Projects\FuturonTerrain\FuturonTerrain\XNATerrainHeightmap\Content\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
